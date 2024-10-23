@@ -1,10 +1,5 @@
 print (" Program Matriks ke-2     ")
 print ("==========================")
-print (" Nama  : Nur Adnan Setiadi")
-print (" Nim   : 32320025         ")
-print (" Kelas : 2B Elektronika   ")
-print ("========================= ")
-
 #Matriks dengan ukuran 2x2
 matriksA = [[2,5], [5,2]]
 print(" ",matriksA,"\n")
